@@ -1,6 +1,22 @@
-.center {
+body {
+    background: white;
+  }
+  p {
+    color: black;
+  }
+  h1 {
+    font-weight: bold;
+   color: aliceblue;
+    font-family: monospace;
+  }
+  h3{
+    color: aliceblue;
+    font-family: monospace;
+  }
+  .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+   
   }
+  
