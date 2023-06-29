@@ -6,12 +6,10 @@ body {
   }
   h1 {
     font-weight: bold;
-   color: aliceblue;
-    font-family: monospace;
+   color: #F0F8FF;
   }
   h3{
-    color: aliceblue;
-    font-family: monospace;
+    color: #F0F8FF;
   }
   .center {
     display: block;
