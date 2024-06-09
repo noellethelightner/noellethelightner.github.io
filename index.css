@@ -8,7 +8,7 @@ body {
     font-weight: bold;
    color: aliceblue;
     font-family: monospace;
-    text-align: right;
+    float: right;
   }
   h3{
     color: aliceblue;
